@@ -7,7 +7,11 @@ A competition robot with a motorised claw built to lift, carry and drop boxes wh
 
 ![The robot](media/robot.jpg)
 
-*Video: [`media/demo.mp4`](media/demo.mp4)*
+### Demo
+
+![Demo](media/demo.gif)
+
+<sub>Full-quality video: [`media/demo.mp4`](media/demo.mp4) — GitHub can't play committed MP4s inline, so the GIF above is the preview.</sub>
 
 ---
 
